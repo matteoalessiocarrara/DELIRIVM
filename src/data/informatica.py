@@ -29,7 +29,7 @@ phrases =	[
 				"Dopo di che, gli URL trovati vengono salvati in un file .log, con tanto di HTTP HEADER, nel nostro server",
 				"Ovviamente se è ottimizzato e non si mette a fare leak vari",
 				"Continuo a pensare che sia solo una perdita di tempo",
-                                "Ma Java mi sembra che era da Hacker, funziona ovunque",
+                                "Ma Java mi sembra che era da Hacker perché funziona ovunque",
 			]
 
 
