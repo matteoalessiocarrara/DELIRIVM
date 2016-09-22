@@ -25,10 +25,11 @@ import all_phrases
 phrases =	[
 				"Lo sanno tutti che arch è instabile",
 				"Per l'onion scanner pensavo di aggiungere una caratteristica che potrebbe duplicare, se non triplicare o quadruplicare, a seconda, le possibilità di trovare qualcosa",
-				"Magari partendo da un singolo scanner che è in grado ti testare 5 combinazioni contemporaneamente, per esempio",
+				"Magari partendo da un singolo scanner che è in grado di testare 5 combinazioni contemporaneamente, per esempio",
 				"Dopo di che, gli URL trovati vengono salvati in un file .log, con tanto di HTTP HEADER, nel nostro server",
 				"Ovviamente se è ottimizzato e non si mette a fare leak vari",
 				"Continuo a pensare che sia solo una perdita di tempo",
+                                "Ma Java mi sembra che era da Hacker perché funziona ovunque",
 			]
 
 
